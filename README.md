@@ -23,7 +23,7 @@
   
   ### Demo 
   ![Demo]
-  > You can see the demo at a larger scale [here].
+  > You can see the demo[here]https://cdn.discordapp.com/attachments/669431940964679690/1166829726569070632/Clip_-_10252023_30212_PM.mp4?ex=654be9dd&is=653974dd&hm=d8f7e00634280f67e0e64cec907ffb9a65581e061e2c67c0ded4092b67b81d16&.
   
 
   ## Installation 
