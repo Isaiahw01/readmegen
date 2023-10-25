@@ -22,7 +22,7 @@
   
   
   ### Demo 
-  ![Demo](https://github.com/EmilyNecciai/readme-generator/blob/d8d48154c71fda9a88f5c7a5027938082d675ef4/img/demo.gif)
+  ![Demo]
   
 
   ## Installation 
@@ -38,5 +38,5 @@
   You can test this project with your own dummy data.
 
   ## Questions
-  Reach out to the repo owner, [EmilyNecciai](https://github.com/EmilyNecciai) at enmayeski@gmail.com.
+  Reach out to the repo owner, https://github.com/Isaiahw01/module9 or email Isaiahwsafem@gmail.com
   
